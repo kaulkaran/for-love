@@ -301,6 +301,22 @@ function Footer() {
 }
 
 function App() {
+  const [visitCount, setVisitCount] = useState(0);
+
+  useEffect(() => {
+    // Get the visit count from localStorage
+    const storedCount = localStorage.getItem("visitCount");
+    const currentCount = storedCount ? parseInt(storedCount, 10) : 0;
+
+    // Increment the count and update localStorage
+    const newCount = currentCount + 1;
+    localStorage.setItem("visitCount", newCount.toString());
+
+    // Update state
+    setVisitCount(newCount);
+  }, []);
+
+function App() {
   const [showPlaylist, setShowPlaylist] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -403,7 +419,7 @@ function App() {
           </div>
         </div>
       )}
-      <Footer />
+      <Footer visitCount={visitCount} />
     </div>
   );
 }
