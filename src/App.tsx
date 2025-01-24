@@ -180,6 +180,85 @@ I can't pin you down...`,
     lyrics: `Tune mere jaana, Kabhi nahi jaana`,
     comment: "An emotional song that resonates with lost love."
     },
+   {
+    id: 6,
+    title: "Kiven Mukhde",
+    artist: "Madhur Sharma",
+    imageUrl: "https://images.unsplash.com/photo-1663331010792-071c2a0caeb8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642925/Tere_Jeya_Hor_Disda_-_Madhur_Sharma_Kiven_Mukhde_PearlRecords_Nusrat_Sahab_uk7wba.mp3",
+    lyrics: `Teri nazron se pi hai khuda ki qasam,
+    Umr saari nashay main guzar jaye gi`,
+    comment: "Every note of this song echoes the way my heart feels when I see your smile."
+    },
+  {
+    id: 7,
+    title: "Tu Itni Khoobsurat Hai",
+    artist: "Amjad Nadeem, Rahat Fateh Ali Khan",
+    imageUrl: "https://images.unsplash.com/photo-1724829825151-9e85eeb3fa80?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642924/Tu_Itni_Khoobsurat_Hai_Full_Video_Barkhaa_Rahat_Fateh_Ali_Khan_Sara_Lorren_Amjad_Nadeem_ahxpid.mp3",
+    lyrics: `Tu hi shaamil raha duaa mein meri,
+    Naam tera rahaa zubaan pe meri`,
+    comment: "This track is good, but nothing compares to the rhythm of your laughter, Saranya."
+    },
+    {
+    id: 8,
+    title: "Raani",
+    artist: "Karan Sehmbi, Rox A",
+    imageUrl: "https://images.unsplash.com/photo-1681629996793-28047b0cfca4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642928/Karan_Sehmbi__Raani_Official_Video_Rox_A_Ricky_Tru_Makers_Latest_Punjabi_Songs_2018_wtgyxt.mp3",
+    lyrics: `Akhiyaan nu har pal chain ae,
+    Tainu vekh vekh rajjde na nain ae`,
+    comment: "Saranya, this song is special, but it’s you who gives meaning to every word in it. 🌹"
+    },
+    {
+    id: 9,
+    title: "Jeen Di Gal",
+    artist: "Prabh Gill, The Prophe C, Raxstar",
+    imageUrl: "https://images.unsplash.com/photo-1695636696592-0f6a2935d5ee?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642923/Prabh_Gill_-_Jeen_Di_Gal_Feat_Raxstar_Latest_Punjabi_Songs_b9pfv1.mp3",
+    lyrics: `Mainu neend na aave raatan nu,
+    Mainu chain na aave raatan nu.`,
+    comment: "I could listen to this on repeat forever, just like I could stare into your eyes endlessly."
+    },
+    {
+    id: 10,
+    title: "Desire",
+    artist: "Prabh Gill, Raashi Sood",
+    imageUrl: "https://images.unsplash.com/photo-1695636877871-2484c46e6452?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642923/Desire_Prabh_Gill_Ft._Raashi_Sood_Ar_Deep_Latest_Punjabi_Songs_New_Punjabi_Songs_tdprtr.mp3",
+    lyrics: "Wah Khudaya Kya Nazare, Tainu Takiye Je Khalo’ke,",
+    comment: "Saranya, if our story had a soundtrack, this would be one of the highlights. 🎶"
+    },
+    {
+    id: 11,
+    title: "Laal Ishq",
+    artist: "Rahat Fateh Ali Khan",
+    imageUrl: "https://images.unsplash.com/photo-1616597053809-fad010d870c1?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642925/Laal_Ishq_-_A_sequel_of_Landa_Bazar_OST_by_Rahat_Fateh_Ali_Khan_CU2_xdfb0d.mp3",
+    lyrics: `Ek Mohabbat Se Yeh,
+    Na Sambhaale Gaye`,
+    comment: "Every beat of this song resonates with the way my heart skips for you."
+    },
+    {
+    id: 12,
+    title: "Akhiyan",
+    artist: "Rahat Fateh Ali Khan, Jatinder Shah",
+    imageUrl: "https://images.unsplash.com/photo-1627731306172-b8ae5fe92320?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643408/Akhiyan_Full_Audio_Song_Rahat_Fateh_Ali_Khan_Punjabi_Song_Collection_Speed_Records_wqnmj7.mp3",
+    lyrics: `Tainu takkeya te dull gayian akhiyan akhiyan,
+    Saari duniya nu bhull gayian akhiyan akhiyan`,
+  comment: "This song paints a picture of love, but you make it come alive for me."
+    },
+    {
+    id: 13,
+    title: "Chaahat",
+    artist: "Jeet Gannguli, Rahat Fateh Ali Khan",
+    imageUrl: "https://images.unsplash.com/photo-1626358134206-0d1b77d48f21?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643425/Chaahat_-_Official_4K_Version_Rahat_Fateh_Ali_Khan_Blood_Money_Kunal_Khemu_Jeet_Gannguli_u9kavn.mp3",
+    lyrics: `Main toh bas teri chahat mein,
+    Chahoon rehna sada`,
+    comment: "Saranya, every time I hear this, I can’t help but think of us dancing under the stars."
+    },
 ];
 
 function StarField() {
