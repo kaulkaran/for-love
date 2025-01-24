@@ -150,6 +150,27 @@ I can't pin you down...`,
     comment:
       "Every time I hear this song, I think about how perfectly it describes our love story...",
   },
+  {
+    id: 3,
+    title: "Har Ek Pal",
+    artist: "Ashu Shukla",
+    imageUrl: "https://images.unsplash.com/photo-1602619074972-d3525c7aa1d9?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642919/Har_Ek_Pal_-_Ashu_Shukla_Pehchan_Music_Latest_Hindi_Songs_2020_ynekvs.mp3",
+    lyrics: `Hain bahut si baatein kehne ko, Dil ye hausla juta raha, Suni-suni si baatein lagti hain. Par ye mere dil ka haal hai`,
+    comment: "Saranya, every time I hear this song, it feels like it’s narrating the story of us. You’re my favorite melody. ❤️"
+    },
+    {
+    id: 4,
+    title: "Judai",
+    artist: "Pritam, Kamran Ahmed",
+    imageUrl: "https://images.unsplash.com/photo-1632150050176-90c896622560?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642918/Judai_Best_Video_-_JannatEmraan_HashmiSonal_ChauhanKamran_AhmedPritam_sumisx.mp3",
+    lyrics: `Tere bin dil mera laage kahin na
+    Tere bin jaan meri jaaye kahin na
+    Kitne zamane baad, oh, Rabba
+    Yaad tu aaya, yaad tu aaya`,
+    comment: "Saranya, the lyrics remind me of how lucky I am to have you in my life. You make every day beautiful. 🌸"
+    },
 ];
 
 function StarField() {
