@@ -141,7 +141,7 @@ Oh, I never knew you were the someone waiting for me...`,
     artist: "John Legend",
     imageUrl:
       "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=800&auto=format&fit=crop",
-    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737443343/pagalworld.com.mx-Perfect_iqtv60.mp3",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737694187/imtiaz252_all-of-me-john-legend-lindsey-stirling_adn9jb.mp3",
     lyrics: `What would I do without your smart mouth?
 Drawing me in, and you kicking me out
 You've got my head spinning, no kidding
