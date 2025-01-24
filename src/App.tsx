@@ -8,7 +8,6 @@ import {
   Play,
   Pause,
 } from "lucide-react";
-import QuizSection from "./components/Quiz";
 
 interface Song {
   id: number;
@@ -142,7 +141,7 @@ Oh, I never knew you were the someone waiting for me...`,
     artist: "John Legend",
     imageUrl:
       "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=800&auto=format&fit=crop",
-    audioUrl: "",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737443343/pagalworld.com.mx-Perfect_iqtv60.mp3",
     lyrics: `What would I do without your smart mouth?
 Drawing me in, and you kicking me out
 You've got my head spinning, no kidding
@@ -162,7 +161,7 @@ I can't pin you down...`,
     {
     id: 4,
     title: "Judai",
-    artist: "Pritam, Kamran Ahmed",
+    artist: "Pritam",
     imageUrl: "https://images.unsplash.com/photo-1632150050176-90c896622560?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642918/Judai_Best_Video_-_JannatEmraan_HashmiSonal_ChauhanKamran_AhmedPritam_sumisx.mp3",
     lyrics: `Tere bin dil mera laage kahin na
@@ -193,7 +192,7 @@ I can't pin you down...`,
   {
     id: 7,
     title: "Tu Itni Khoobsurat Hai",
-    artist: "Amjad Nadeem, Rahat Fateh Ali Khan",
+    artist: "Rahat Fateh Ali Khan",
     imageUrl: "https://images.unsplash.com/photo-1724829825151-9e85eeb3fa80?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642924/Tu_Itni_Khoobsurat_Hai_Full_Video_Barkhaa_Rahat_Fateh_Ali_Khan_Sara_Lorren_Amjad_Nadeem_ahxpid.mp3",
     lyrics: `Tu hi shaamil raha duaa mein meri,
@@ -203,7 +202,7 @@ I can't pin you down...`,
     {
     id: 8,
     title: "Raani",
-    artist: "Karan Sehmbi, Rox A",
+    artist: "Karan Sehmbi",
     imageUrl: "https://images.unsplash.com/photo-1681629996793-28047b0cfca4?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642928/Karan_Sehmbi__Raani_Official_Video_Rox_A_Ricky_Tru_Makers_Latest_Punjabi_Songs_2018_wtgyxt.mp3",
     lyrics: `Akhiyaan nu har pal chain ae,
@@ -213,7 +212,7 @@ I can't pin you down...`,
     {
     id: 9,
     title: "Jeen Di Gal",
-    artist: "Prabh Gill, The Prophe C, Raxstar",
+    artist: "Prabh Gill",
     imageUrl: "https://images.unsplash.com/photo-1695636696592-0f6a2935d5ee?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642923/Prabh_Gill_-_Jeen_Di_Gal_Feat_Raxstar_Latest_Punjabi_Songs_b9pfv1.mp3",
     lyrics: `Mainu neend na aave raatan nu,
@@ -223,7 +222,7 @@ I can't pin you down...`,
     {
     id: 10,
     title: "Desire",
-    artist: "Prabh Gill, Raashi Sood",
+    artist: "Prabh Gill",
     imageUrl: "https://images.unsplash.com/photo-1695636877871-2484c46e6452?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642923/Desire_Prabh_Gill_Ft._Raashi_Sood_Ar_Deep_Latest_Punjabi_Songs_New_Punjabi_Songs_tdprtr.mp3",
     lyrics: "Wah Khudaya Kya Nazare, Tainu Takiye Je Khalo’ke,",
@@ -242,7 +241,7 @@ I can't pin you down...`,
     {
     id: 12,
     title: "Akhiyan",
-    artist: "Rahat Fateh Ali Khan, Jatinder Shah",
+    artist: "Rahat Fateh Ali Khan",
     imageUrl: "https://images.unsplash.com/photo-1627731306172-b8ae5fe92320?q=80&w=1364&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643408/Akhiyan_Full_Audio_Song_Rahat_Fateh_Ali_Khan_Punjabi_Song_Collection_Speed_Records_wqnmj7.mp3",
     lyrics: `Tainu takkeya te dull gayian akhiyan akhiyan,
@@ -252,13 +251,14 @@ I can't pin you down...`,
     {
     id: 13,
     title: "Chaahat",
-    artist: "Jeet Gannguli, Rahat Fateh Ali Khan",
+    artist: "Rahat Fateh Ali Khan",
     imageUrl: "https://images.unsplash.com/photo-1626358134206-0d1b77d48f21?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643425/Chaahat_-_Official_4K_Version_Rahat_Fateh_Ali_Khan_Blood_Money_Kunal_Khemu_Jeet_Gannguli_u9kavn.mp3",
     lyrics: `Main toh bas teri chahat mein,
     Chahoon rehna sada`,
     comment: "Saranya, every time I hear this, I can’t help but think of us dancing under the stars."
     },
+  // Additional songs can be added here
 ];
 
 function StarField() {
@@ -337,63 +337,52 @@ function App() {
             <span>Back to Home</span>
           </button>
           <div
-            className="flex overflow-x-auto space-x-6 scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100"
-            style={{ whiteSpace: "nowrap", paddingBottom: "20px" }}
+            className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6"
           >
             {songs.map((song) => (
               <div
                 key={song.id}
                 className="bg-white/10 backdrop-blur-lg rounded-2xl p-6 text-white shadow-xl
-                         hover:transform hover:scale-[1.02] transition-all duration-300 flex flex-col space-y-4 w-96"
+                         hover:transform hover:scale-[1.02] transition-all duration-300 flex flex-col space-y-4"
               >
-                <div className="grid md:grid-cols-2 gap-6">
-                  <div className="space-y-4">
-                    <div className="aspect-square rounded-xl overflow-hidden">
-                      <img
-                        src={song.imageUrl}
-                        alt={`${song.title} by ${song.artist}`}
-                        className="w-full h-full object-cover"
-                      />
-                    </div>
-                    <div className="space-y-2">
-                      <h3 className="text-2xl font-bold flex items-center">
-                        <Music4 className="w-6 h-6 mr-2 text-pink-300" />
-                        {song.title}
-                      </h3>
-                      <p className="text-purple-200">{song.artist}</p>
-                    </div>
-                    <AudioPlayer audioUrl={song.audioUrl} />
+                <div className="aspect-square rounded-xl overflow-hidden">
+                  <img
+                    src={song.imageUrl}
+                    alt={`${song.title} by ${song.artist}`}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <div className="space-y-2">
+                  <h3 className="text-2xl font-bold flex items-center">
+                    <Music4 className="w-6 h-6 mr-2 text-pink-300" />
+                    {song.title}
+                  </h3>
+                  <p className="text-purple-200">{song.artist}</p>
+                </div>
+                <AudioPlayer audioUrl={song.audioUrl} />
+                <div>
+                  <div className="flex items-center mb-2">
+                    <Quote className="text-pink-300 w-5 h-5 mr-2" />
+                    <h4 className="text-xl font-medium">Lyrics</h4>
                   </div>
-                  <div className="space-y-6">
-                    <div>
-                      <div className="flex items-center mb-2">
-                        <Quote className="text-pink-300 w-5 h-5 mr-2" />
-                        <h4 className="text-xl font-medium">Lyrics</h4>
-                      </div>
-                      <div className="bg-white/5 rounded-lg p-4 h-48 overflow-y-auto">
-                        <p className="whitespace-pre-line text-purple-100">
-                          {song.lyrics}
-                        </p>
-                      </div>
-                    </div>
-                    <div>
-                      <div className="w-full flex items-center mb-2">
-                        <Heart className="text-pink-300 w-5 h-5 mr-2" />
-                        <h4 className="text-xl font-medium">
-                          Why This Song Is Special
-                        </h4>
-                      </div>
-                      <div  className="bg-white/5 rounded-lg p-4 max-h-35 overflow-y-auto" >
-                      <p className="text-purple-100 whitespace-pre-line">{song.comment}</p>
-                      </div>
-                      
-                    </div>
+                  <div className="bg-white/5 rounded-lg p-4 h-48 overflow-y-auto">
+                    <p className="whitespace-pre-line text-purple-100">
+                      {song.lyrics}
+                    </p>
+                  </div>
+                </div>
+                <div>
+                  <div className="flex items-center mb-2">
+                    <Heart className="text-pink-300 w-5 h-5 mr-2" />
+                    <h4 className="text-xl font-medium">Why This Song Is Special</h4>
+                  </div>
+                  <div className="bg-white/5 rounded-lg p-4 max-h-35 overflow-y-auto">
+                    <p className="text-purple-100 whitespace-pre-line">{song.comment}</p>
                   </div>
                 </div>
               </div>
             ))}
           </div>
-        
         </div>
       )}
     </div>
