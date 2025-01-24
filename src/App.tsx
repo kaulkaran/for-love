@@ -292,6 +292,9 @@ function Footer({ visitCount }: { visitCount: number }) {
         <p className="text-purple-200 text-sm mt-1">
           Dedicated to the love of <span className="text-pink-300 font-semibold">Saranya</span>
         </p>
+         <p className="text-purple-200 text-sm mt-4">
+          You have visited this website <span className="text-pink-300 font-semibold">{visitCount}</span> times.
+        </p>
         <p className="text-purple-200 text-xs mt-4">
           &copy; {new Date().getFullYear()} All Rights Reserved.
         </p>
