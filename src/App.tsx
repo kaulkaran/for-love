@@ -282,7 +282,7 @@ function StarField() {
   );
 }
 
-function Footer() {
+function Footer({ visitCount }: { visitCount: number }) {
   return (
     <footer className="bg-white/10 backdrop-blur-lg text-white py-6 mt-12">
       <div className="container mx-auto px-4 text-center">
@@ -300,7 +300,11 @@ function Footer() {
   );
 }
 
+
+
 function App() {
+  const [showPlaylist, setShowPlaylist] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   const [visitCount, setVisitCount] = useState(0);
 
   useEffect(() => {
@@ -315,10 +319,6 @@ function App() {
     // Update state
     setVisitCount(newCount);
   }, []);
-
-function App() {
-  const [showPlaylist, setShowPlaylist] = useState(false);
-  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
