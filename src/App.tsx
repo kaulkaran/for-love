@@ -171,6 +171,15 @@ I can't pin you down...`,
     Yaad tu aaya, yaad tu aaya`,
     comment: "Saranya, the lyrics remind me of how lucky I am to have you in my life. You make every day beautiful. 🌸"
     },
+  {
+    id: 5,
+  title: "Tune Mere Jana",
+    artist: "Gajendra Verma",
+    imageUrl: "https://images.unsplash.com/photo-1642511283397-e0bc9d502762?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737642921/Gajendra_Verma_-_Tune_Mere_Jaana_Kabhi_Nahi_Jaana_I_Emptiness_Gajendra_Verma_Songs_Sonotek_Music_e1tpsh.mp3",
+    lyrics: `Tune mere jaana, Kabhi nahi jaana`,
+    comment: "An emotional song that resonates with lost love."
+    },
 ];
 
 function StarField() {
