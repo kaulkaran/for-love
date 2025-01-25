@@ -258,6 +258,135 @@ I can't pin you down...`,
     Chahoon rehna sada`,
     comment: "Saranya, every time I hear this, I can’t help but think of us dancing under the stars."
     },
+  {
+    id: 14,
+    title: "Aankhon Se Batana",
+    artist: "Dikshant",
+    imageUrl: "https://images.unsplash.com/photo-1691697590646-c9b7bf6bef85?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643408/Aankhon_Se_Batana_Dikshant_Viral_Song_2022_Official_Video_muehkq.mp3",
+    lyrics: "Tum Aankhon Se Batana, Hum samjh jayenge",
+    comment: "Hearing this makes me want to relive every magical moment I’ve shared with you."
+    },
+    {
+    id: 15,
+    title: "Aaju Mithila Nagariya Nihal Sakhiya",
+    artist: "Priya Mallick",
+    imageUrl: "https://images.unsplash.com/photo-1663331010792-071c2a0caeb8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643410/Priya_Mallick_Aaju_Mithila_Nagariya_l_%E0%A4%86%E0%A4%9C_%E0%A4%AE%E0%A4%A5%E0%A4%B2_%E0%A4%A8%E0%A4%97%E0%A4%B0%E0%A4%AF_Maithili_folkl_Snehlata_Pankaj_Apoorva_sehzjk.mp3",
+    lyrics: "Aaju Mithila Nagariya Nihal Sakhiya....",
+    comment: "A traditional tune with cultural richness."
+    },
+    {
+    id: 16,
+    title: "Kitni Haseen Hogi",
+    artist: "Mithoon, Arijit Singh, Sayeed Quadri",
+    imageUrl: "https://images.unsplash.com/photo-1654502579099-ba14d34827c0?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737643408/Kitni_Haseen_Hogi_-_HIT__The_First_Case_Rajkummar_Sanya_Mithoon_Arijit_S_Sayeed_Q_Bhushan_K_blzzbv.mp3",
+    lyrics : "Kitni haseen hogi woh mulaqatein...",
+    comment: "Saranya, this song feels like a memory of the love we share—timeless and perfect."
+    },
+    {
+    id: 17,
+    title: "Benaqab",
+    artist: "Lakhwinder Wadali, Sufiyan Bhatt",
+    imageUrl: "https://images.unsplash.com/photo-1664360155784-ab1074aa0be8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713163/Benaqab_-_Lakhwinder_Wadali_Rehmat_Rattan_Sufiyan_Bhatt_M.S._Abid_Zee_Music_Originals_zdwqpa.mp3",
+    lyrics: "Benaqab si hai, zindagi meri...",
+    comment: "This melody reminds me of how your presence turns my world into a masterpiece."
+    },
+    {
+    id: 18,
+    title: "Judaa",
+    artist: "Amrinder Gill",
+    imageUrl: "https://images.unsplash.com/photo-1665135194772-0329053ae5d3?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713156/Tu_Judaa_Amrinder_Gill_-_Judda_Full_Song_YouTube.flv_SaveYouTube.com_.flv_nwcm0u.mp3",
+    lyrics: "Dil judaa hoke bhi tera hi hai...",
+    comment: "Every time this plays, I remember that moment you made me feel like the luckiest person alive."
+    },
+    {
+id: 19,
+title: "Pagal",
+artist: "Gurnam Bhullar",
+imageUrl: "https://images.unsplash.com/photo-1530103043960-ef38714abb15?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713130/Pagal_Official_Music_Video_Gurnam_Bhullar_G_Guri_Baljit_Singh_Deo_Songs_2019_s9kkuq.mp3",
+lyrics: "Pagal sa dil mera tera deewana...",
+comment: "If music is what feelings sound like, this song is the sound of you in my heart."
+    },
+    {
+    id: 20,
+    title: "Sajni",
+    artist: "Jal",
+    imageUrl: "https://images.unsplash.com/photo-1546471180-335a013cb87b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713148/Sajni_-_Official_Video_Song_Boondh_A_Drop_of_Jal_Jal_-_The_Band_nwqpqj.mp3",
+    lyrics: "Sajni paas bulao na...",
+    comment: "I could spend my entire life listening to songs like this if it means spending it with you."
+    },
+    {
+    id: 21,
+    title: "Shairana Si Hai Zindagi",
+    artist: "Alka Yagnik",
+    imageUrl: "https://images.unsplash.com/photo-1592355591829-aaae33fcff1d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713181/Shairana_Si_Hai_Zindagi_Ki_Faza_-_Lyrical_Phir_Teri_Kahani_Yaad_Ayee_Alka_Yagnik_90s_Hindi_Hits_nh17zf.mp3",
+    lyrics: "Shairana si hai zindagi ke rang...",
+    comment: "Saranya, you’re my forever song, playing on repeat in my heart."
+    },
+    {
+    id: 22,
+    title: "Lakh Pardo Mein",
+    artist: "Said Sabri, Farid Sabri",
+    imageUrl: "https://plus.unsplash.com/premium_photo-1720694818685-60a176ddfedf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713144/Official_Song___Lakh_Pardo_Mein_%E0%A4%B2%E0%A4%96_%E0%A4%AA%E0%A4%B0%E0%A4%A6_%E0%A4%AE_Said_Sabri_Farid_Sabri_T-Series_Islamic_Music_pwnsin.mp3",
+    lyrics: "Lakh pardo mein chupao...",
+    comment: "A soulful qawwali that touches the soul."
+    },
+    {
+id: 23,
+title: "Dua Kijiye",
+artist: "Rashid Khan, Raj Barman",
+imageUrl: "https://images.unsplash.com/photo-1569154107747-fb00e3b3430d?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713100/Dua_Kijiye_Amyra_Dastur_Parth_Samthaan_Raj_Barman_Rashid_Khan_A_M_Turaz_Zee_Music_Originals_ap7ce8.mp3",
+lyrics: "Dua kijiye ke ye dil sambhale...",
+comment: "A moving song filled with emotional depth."
+    },
+    {
+    id: 24,
+    title: "Ikko - Mikke",
+    artist: "Satinder Sartaaj",
+    imageUrl: "https://images.unsplash.com/photo-1498736297812-3a08021f206f?q=80&w=1179&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713110/Ikko_Mikke_-_Sanu_ajkal_sheesha_bada_ched_da_Satinder_Sartaaj_New_Punjabi_Song_2020_New_Song_ccq5hf.mp3",
+    lyrics: "Ikko mikke, saath chalein hum...",
+    comment: "Saranya, this reminds me of all the little moments we’ve shared that make life so beautiful."
+    },
+    {
+    id: 25,
+    title: "Purani Tape",
+    artist: "Simiran Kaur Dhadli, Zakir",
+    imageUrl: "https://images.unsplash.com/photo-1574087776137-305a55298646?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713151/Purani_Tape_Mixtape_Simiran_Kaur_Dhadli_Zakir_ykg7ys.mp3",
+    lyrics: "Purani tape sunta hoon ab bhi...",
+    comment: "Nostalgic vibes that take you back in time."
+    },
+    {
+    id: 26,
+    title: "52 Bars",
+    artist: "Karan Aujla, Ikky",
+    imageUrl: "https://images.unsplash.com/photo-1470049384172-927891aad5e9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713094/52_Bars_Official_Video_Karan_Aujla_Ikky_Four_You_EP_First_Song_Latest_Punjabi_Songs_2023_fe6jdj.mp3",
+    lyrics: "52 bars, ik vaar sunke vekh...",
+    comment: "A power-packed track with bold lyrics."
+    },
+    {
+    id: 27,
+    title: "Ghana Kasoota",
+    artist: "Raftaar, Rashmeet Kaur, Surbhi Jyoti",
+    imageUrl: "https://images.unsplash.com/photo-1534673180096-30fc33d619c4?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    audioUrl: "https://res.cloudinary.com/dw5ow19cc/video/upload/v1737713103/Ghana_Kasoota_raftaarmusic_Surbhi_Jyoti_RashmeetKaur_Avvy_Sra_Latest_Hit_Dance_Song_2021_uyq1iz.mp3",
+    lyrics: `Jab Gaam Ka Chhora Kaad Ke Taur
+    Chhori Chhori Taake Se
+    Mane Ghana Kasoota Lagge Se
+    Mane Ghana Kasuta Lagge Se`,
+    comment: "A power-packed track with bold lyrics."
+    }
   // Additional songs can be added here
 ];
 
